@@ -1,0 +1,11 @@
+C:\Users\Asen's PC\source\repos\HEX TO DEC\HEX TO DEC\bin\Debug\netcoreapp3.1\HEX TO DEC.exe
+C:\Users\Asen's PC\source\repos\HEX TO DEC\HEX TO DEC\bin\Debug\netcoreapp3.1\HEX TO DEC.deps.json
+C:\Users\Asen's PC\source\repos\HEX TO DEC\HEX TO DEC\bin\Debug\netcoreapp3.1\HEX TO DEC.runtimeconfig.json
+C:\Users\Asen's PC\source\repos\HEX TO DEC\HEX TO DEC\bin\Debug\netcoreapp3.1\HEX TO DEC.runtimeconfig.dev.json
+C:\Users\Asen's PC\source\repos\HEX TO DEC\HEX TO DEC\bin\Debug\netcoreapp3.1\HEX TO DEC.dll
+C:\Users\Asen's PC\source\repos\HEX TO DEC\HEX TO DEC\bin\Debug\netcoreapp3.1\HEX TO DEC.pdb
+C:\Users\Asen's PC\source\repos\HEX TO DEC\HEX TO DEC\obj\Debug\netcoreapp3.1\HEX TO DEC.csprojAssemblyReference.cache
+C:\Users\Asen's PC\source\repos\HEX TO DEC\HEX TO DEC\obj\Debug\netcoreapp3.1\HEX TO DEC.AssemblyInfoInputs.cache
+C:\Users\Asen's PC\source\repos\HEX TO DEC\HEX TO DEC\obj\Debug\netcoreapp3.1\HEX TO DEC.AssemblyInfo.cs
+C:\Users\Asen's PC\source\repos\HEX TO DEC\HEX TO DEC\obj\Debug\netcoreapp3.1\HEX TO DEC.dll
+C:\Users\Asen's PC\source\repos\HEX TO DEC\HEX TO DEC\obj\Debug\netcoreapp3.1\HEX TO DEC.pdb
